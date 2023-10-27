@@ -118,5 +118,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xin Zhang is currently a third-year graduate student at Southeast University in China, under the guidance of Professor Zhou Deyu. Her research primarily focuses on emotion analysis. She has conducted studies on "Emotion Analysis of Social Network Users," "Emotion Ranking of News Readers," and "Emotion Cause Extraction." She is also interested in technologies such as dynamic graphs, LLM (Large Language Model), and transfer learning.
+
+😊 Alright, the above is all formal information. In reality, I just want to share some of my feelings and insights during my research through this website. Perhaps I'll also share some aspects of my life.
 {style="text-align: justify;"}
