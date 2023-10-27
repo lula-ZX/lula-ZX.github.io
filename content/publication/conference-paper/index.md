@@ -38,7 +38,7 @@ summary: Sentiment Analysis; Streaming User Reviews; Dynamic Graph Neural Networ
 tags: []
 
 # Display this page in the Featured widget?
-# featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
