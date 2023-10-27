@@ -13,9 +13,9 @@ Wowchemy is designed to give technical content creators a seamless experience. Y
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
 
-## Examples
+## Rui Xia
 
-### Code
+### Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths
 
 Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the `syntax_highlighter` option in your `config/_default/params.yaml` file.
 
