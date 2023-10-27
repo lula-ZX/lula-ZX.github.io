@@ -214,11 +214,13 @@ sections:
   #     columns: '2'
   #     view: compact
   - block: tag_cloud
+    id: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
   - block: markdown
+    id: travel
     content:
       title: Travel Collection
       subtitle: ''

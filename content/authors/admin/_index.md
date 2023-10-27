@@ -121,4 +121,6 @@ highlight_name: true
 Xin Zhang is currently a third-year graduate student at Southeast University in China, under the guidance of Professor Zhou Deyu. Her research primarily focuses on emotion analysis. She has conducted studies on "Emotion Analysis of Social Network Users," "Emotion Ranking of News Readers," and "Emotion Cause Extraction." She is also interested in technologies such as dynamic graphs, LLM (Large Language Model), and transfer learning.
 
 😊 Alright, the above is all formal information. In reality, I just want to share some of my feelings and insights during my research through this website. Perhaps I'll also share some aspects of my life.
+
+!!! Actually, this is still an unfinished version of my personal webpage. Please wait for my future updates...
 {style="text-align: justify;"}
